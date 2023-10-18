@@ -1,0 +1,8 @@
+com\rsp\turns\UserTurn.class
+com\rsp\Game.class
+com\rsp\HelpTable.class
+com\rsp\turns\ComputerTurn.class
+com\rsp\Main.class
+com\rsp\Rule.class
+com\rsp\crypto\Key.class
+com\rsp\crypto\HMAC.class

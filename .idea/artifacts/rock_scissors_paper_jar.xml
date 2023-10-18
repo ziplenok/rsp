@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="rock-scissors-paper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rock_scissors_paper_jar</output-path>
+    <root id="archive" name="rock-scissors-paper.jar">
+      <element id="module-output" name="rock-scissors-paper" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
